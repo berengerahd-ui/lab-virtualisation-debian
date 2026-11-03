@@ -22,3 +22,5 @@
 
 ## L'arborescence FHS
 (un mini-schéma de /etc /var /home /usr /bin avec le rôle de chacun)
+
+Séance validé
